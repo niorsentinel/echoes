@@ -236,7 +236,6 @@ Project Link: [https://github.com/niorsentinel/echoes](https://github.com/niorse
 ## Disclaimer
 This tool is provided for educational and authorized network monitoring purposes only. The authors are not responsible for any misuse or damage caused by this program. Always obtain proper authorization before monitoring network traffic.
 
-⭐ If you find this project useful, please consider giving it a star!
 
 ---
 
